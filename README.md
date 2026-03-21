@@ -9,7 +9,7 @@ Official implementation of the paper: **"Consistency regularization for distorti
 
 ## 📂 Directory Hierarchy
 ```text
-CR_distortion/
+DisCO/
 ├── README.md
 ├── run/
 │   ├── run.py
